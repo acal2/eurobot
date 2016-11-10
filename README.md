@@ -1,0 +1,2 @@
+# eurobot
+discord bot
